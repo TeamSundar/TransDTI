@@ -110,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 * Yogesh Kalakoti - [@iam_ysk](https://twitter.com/your_username) - yogesh.kalakoti@dbeb.iitd.ac.in
-* Shashank Yadav - [@xinformatics](https://twitter.com/your_username) - shashank.yadav1@alumni.iitd.ac.in
+* Shashank Yadav - [@xinformatics](https://twitter.com/your_username) - shashank@arizona.edu
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
